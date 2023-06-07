@@ -21,16 +21,15 @@ If this application is in response to an RFP, please indicate this on the first 
 If this is an application for a follow-up grant (the continuation of an earlier, successful W3F grant), please provide name and/or pull request of said grant on the first line of this section.
 
 ### Overview
+Integrate Polkadot/Kusama Blockchain into our Exchange Defi Staking App
 
-Please provide the following:
+Staking DeFi assets requires a custom wallet outside of our exchange. To start with staking, users first need to establish a connection between the wallet and MYXchange. 
 
-- If the name of your project is not descriptive, a tag line (one sentence summary).
+Once connected, users can stake and start earning directly from their wallet. We would like to integrate Polkadot Network to enable our users Stake Assets available on the Polkadot/Kusama Blockchain.
 
-- A brief description of your project.
+AWSDEV Team is embarking on this project due to demand from loyal users about the inability to Stake Assets such as DOT & KSM on our MYXchange inorder to earn rewards.
 
-- An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
-
-- An indication of why your team is interested in creating this project.
+This Project will solve such issues and expand our Exchange Defi Staking Platform..
 
 ### Project Details
 
