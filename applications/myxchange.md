@@ -59,19 +59,11 @@ Things that shouldn’t be part of the application (see also our [FAQ](../docs/f
 
 ### Ecosystem Fit
 
-Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
+Our Project enables users and stakers to have access to Stake Assets on the Polkadot/Kusama Network and enable them earn Defi Staking Rewards which previously have been unavailable on our platform , Thereby driving interest and utilisation of Polkadot Network amongst users previously unable to participate due to seemingly perceived unsummountable technicalities.
 
-- Where and how does your project fit into the ecosystem?
-
-- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-
-- What need(s) does your project meet?
-
-- Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
-
-  - If so, how is your project different?
-
-  - If not, are there similar projects in related ecosystems?
+Our Target Base is our Exchange users newly introduced and previously unaware of Polkadot Defi Staking to Earn Rewards.
+Our Project Differs in the sense that it onboards active users and stakers on the BSC and Ethereum Blockchains into the world of Polkadot Staking and Farming Rewards in DOT.
+This Project will also expand our Exchange Ecosystem and Create Excitement therefore catapulting our Exchange to a one of a kind Platform in Malaysia.
 
 ## Team :busts_in_silhouette:
 
@@ -111,13 +103,13 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 - https://github.com/<team_member_1>
 
-- https://github.com/<team_member_2>
+- https://github.com/lgkdev
 
 ### Team LinkedIn Profiles (if available)
 
 - https://www.linkedin.com/<person_1>
 
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/faizal
 
 ## Development Status :open_book:
 
