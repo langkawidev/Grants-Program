@@ -1,4 +1,4 @@
-# Name of your Project
+# MYXchange Polkadot Staking Integration
 
 > This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines (except for the title)! Lines starting with a `>` (such as this one) should be removed. Please use markdown instead of HTML (e.g. `![](image.png)` instead of `<img>`). 
 
@@ -6,11 +6,11 @@
 
 > See the [Grants Program Process](https://github.com/w3f/Grants-Program/#pencil-process) on how to submit a proposal.
 
-- **Team Name:** Legal name of your team (e.g. Duo)
+- Team Name: AWSDEV Team
 
-- **Payment Address:** In the case of fiat payment, please share your bank account privately with grants@web3.foundation via your contact email (see below) and enter the date when you shared the information with us (e.g. Fiat 24.12.1971, 11:59) here. Otherwise, provide the BTC, Ethereum (USDC/DAI) or Polkadot/Kusama (USDT) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
+- Payment Address:  0xcf08AF722C1c9ef5F65E17b757eC3F2092b23063 (DAI)
 
-- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1, 2 or 3
+- [Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels): 1
 
 > :exclamation: *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
@@ -78,23 +78,23 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 
 ### Team members
 
-- Name of team leader
+- Victor Oyakhire
 
-- Names of team members
+- Faizal Ismail
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
+- Contact Name: Victor Olaiya Oyakhire
 
-- **Contact Email:** Contact email (e.g. john@duo.com)
+- Contact Email: polkadot@myx.exchange
 
-- **Website:** Your website
+- Website: https://myx.exchange
 
 ### Legal Structure
 
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
+- Registered Address: 5 The Cabin, Jalan Pantai Cenang, 07000 Langkawi Kedah, Malaysia
 
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+- Registered Legal Entity: Asia Web Solutions
 
 ### Team's experience
 
